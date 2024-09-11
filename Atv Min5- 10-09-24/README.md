@@ -1,7 +1,5 @@
 # Introdução ao Pandas
 
-
-
 Instruções
 -
 Criar um DataFrame com o nome frutas no seguinte formato:
