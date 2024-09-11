@@ -3,25 +3,24 @@
 Instruções
 -
 Criar um DataFrame com o nome frutas no seguinte formato:
+
 ||||
 |------|-----|------|
 ||Maça | Banana|
-
 |0|30||20|
 
 
 Criar um DataFrame com o nome vendas_frutas no seguinte formato:
-- 
+
 ||||
 |----|-----|-----|
 ||Maça |Banana|
-
 |Vendas 2022|1000|700|
-
 |Vendas 2023|5000|2000|
 
 
 Utilizar o site https://www.kaggle.com/ para obter um arquivo CSV para demonstração dos seguintes comandos:
+-
 - Importação arquivo .CSV
 - Tipo de dados de cada coluna
 - Realizar a leitura de valores de uma coluna em específico
