@@ -3,7 +3,7 @@
 Instruções
 -
 Criar um DataFrame com o nome frutas no seguinte formato:
-
+||||
 |------|-----|------|
 ||Maça | Banana|
 
@@ -12,7 +12,7 @@ Criar um DataFrame com o nome frutas no seguinte formato:
 
 Criar um DataFrame com o nome vendas_frutas no seguinte formato:
 - 
-
+||||
 |----|-----|-----|
 ||Maça |Banana|
 
